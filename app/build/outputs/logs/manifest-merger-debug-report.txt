@@ -1,0 +1,267 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\WeatherApp\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from D:\WeatherApp\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from D:\WeatherApp\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from D:\WeatherApp\app\src\main\AndroidManifest.xml:2:1-38:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\62ce6540d9530b51402c4e53dcbdc3e1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\0c3c715b985adbef3d30d390effafb53\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\952a7d8ea6824312594cc47de56ccf44\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\c3309327eb637a912cdbfc7e8a63ac2d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\4c7c11a4a310a1263eb49f7e72e45869\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\0a6a0035eba816703fcf755d0abec662\AndroidManifest.xml:2:1-9:12
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\55b7faa0c94e56e50164520a3fccd99a\AndroidManifest.xml:2:1-14:12
+MERGED from [cn.zhaiyifan:rememberedittext:0.9.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\8c44064d51bf165159f2dbf2e2e762df\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\9129e2b0abdfa946513f96a790fe3937\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.0.2] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\8270b08d2c2a1e8c1bf66c64f613d8d6\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\de034bc9ff7a4ba6bdbfb90d038bd6a1\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\9de82c28dfcbc55a23aceb0517b1eb53\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\910b1eb76dcc978a057a8a9c2deaacc1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\493d2901df36810da51cd316d04829a2\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\9bdf756005814c6c2ee5cdf96d0e291b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\84f90f858ea22699a64e928d7ffdadef\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\a6561eef6850b3f64e58a9bd5c1fb5c0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\1cd310ac328872139534e02342bdbb70\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\d78ecaedfd5f9aa5c0346289bf9fa8c8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\158e823237195b82113b2172de643f70\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\99d12ff1704670c2faf89e1c26f33914\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\ab7e7ef200a6225ff625f630eae2868d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\1c970ebd369cc425f0f593722ce9e4a8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\f32ec28ed37b450cb17accdb3d46a940\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\b39e26b47f079cf6a1053f20fcf36baa\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\508c4552d4ba088f48f4d9f0a41e145c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\7540923f3932dc976f20e7957b0210b1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\41063ec6ca1f9bb3038638641793ae63\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\aa1d0805005248cdc05fa57a85dc6b85\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.2] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\324048154116e377cf2497a9ea4eef27\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\40175be3478c690d85be8f41036a75cd\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\2156524264406f06a784f74d48ae4b6d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\98932a44ef29af7340d8f72a4e6e8d6a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\bfd6c1f09164a77a760a2ebb1fd77d3c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\eb9e02dc6b5070974300d136d9ab0f58\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\d327329582af9bdb9b7eb9985e97f6a6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\bdc0b9544fc06363c36a86f8ebd47329\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\63b2a0b0a9bd1a659ec84c10b4a7baff\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\86709a672d5f6159adcc2477ac60ee56\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\0ac62abde1ee67ee2c44d3094c4aa159\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\be4f071e66df7c7d6e53c5410956def6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\ebc33bdf4916c1b9add8bdf0f6432fbd\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\WeatherApp\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from D:\WeatherApp\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from D:\WeatherApp\app\src\main\AndroidManifest.xml:2:1-38:12
+	package
+		ADDED from D:\WeatherApp\app\src\main\AndroidManifest.xml:3:5-22
+		INJECTED from D:\WeatherApp\app\src\main\AndroidManifest.xml
+		INJECTED from D:\WeatherApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\WeatherApp\app\src\main\AndroidManifest.xml
+		ADDED from D:\WeatherApp\app\src\main\AndroidManifest.xml:2:1-38:12
+		INJECTED from D:\WeatherApp\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\WeatherApp\app\src\main\AndroidManifest.xml
+		ADDED from D:\WeatherApp\app\src\main\AndroidManifest.xml:2:1-38:12
+		INJECTED from D:\WeatherApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\WeatherApp\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\WeatherApp\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from D:\WeatherApp\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\WeatherApp\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from D:\WeatherApp\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\WeatherApp\app\src\main\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from D:\WeatherApp\app\src\main\AndroidManifest.xml:7:22-78
+application
+ADDED from D:\WeatherApp\app\src\main\AndroidManifest.xml:9:5-36:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\62ce6540d9530b51402c4e53dcbdc3e1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\62ce6540d9530b51402c4e53dcbdc3e1\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\952a7d8ea6824312594cc47de56ccf44\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\952a7d8ea6824312594cc47de56ccf44\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\0a6a0035eba816703fcf755d0abec662\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\0a6a0035eba816703fcf755d0abec662\AndroidManifest.xml:7:5-20
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\55b7faa0c94e56e50164520a3fccd99a\AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\55b7faa0c94e56e50164520a3fccd99a\AndroidManifest.xml:7:5-12:19
+MERGED from [cn.zhaiyifan:rememberedittext:0.9.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\8c44064d51bf165159f2dbf2e2e762df\AndroidManifest.xml:11:5-47
+MERGED from [cn.zhaiyifan:rememberedittext:0.9.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\8c44064d51bf165159f2dbf2e2e762df\AndroidManifest.xml:11:5-47
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\de034bc9ff7a4ba6bdbfb90d038bd6a1\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\de034bc9ff7a4ba6bdbfb90d038bd6a1\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\9de82c28dfcbc55a23aceb0517b1eb53\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\9de82c28dfcbc55a23aceb0517b1eb53\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\910b1eb76dcc978a057a8a9c2deaacc1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\910b1eb76dcc978a057a8a9c2deaacc1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\493d2901df36810da51cd316d04829a2\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\493d2901df36810da51cd316d04829a2\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.2] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\324048154116e377cf2497a9ea4eef27\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.2] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\324048154116e377cf2497a9ea4eef27\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\40175be3478c690d85be8f41036a75cd\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\40175be3478c690d85be8f41036a75cd\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.2] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\324048154116e377cf2497a9ea4eef27\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from D:\WeatherApp\app\src\main\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from D:\WeatherApp\app\src\main\AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from D:\WeatherApp\app\src\main\AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from D:\WeatherApp\app\src\main\AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from D:\WeatherApp\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from D:\WeatherApp\app\src\main\AndroidManifest.xml:16:9-40
+	android:usesCleartextTraffic
+		ADDED from D:\WeatherApp\app\src\main\AndroidManifest.xml:15:9-44
+activity#com.aim.view.LocationActivity
+ADDED from D:\WeatherApp\app\src\main\AndroidManifest.xml:17:9-24:20
+	android:theme
+		ADDED from D:\WeatherApp\app\src\main\AndroidManifest.xml:18:13-43
+	android:name
+		ADDED from D:\WeatherApp\app\src\main\AndroidManifest.xml:17:19-56
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\WeatherApp\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from D:\WeatherApp\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from D:\WeatherApp\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\WeatherApp\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from D:\WeatherApp\app\src\main\AndroidManifest.xml:22:27-74
+activity#com.aim.view.WelcomeActivity
+ADDED from D:\WeatherApp\app\src\main\AndroidManifest.xml:25:9-33:20
+	android:theme
+		ADDED from D:\WeatherApp\app\src\main\AndroidManifest.xml:27:13-53
+	android:name
+		ADDED from D:\WeatherApp\app\src\main\AndroidManifest.xml:26:13-49
+activity#com.aim.view.MainActivity
+ADDED from D:\WeatherApp\app\src\main\AndroidManifest.xml:34:9-64
+	android:name
+		ADDED from D:\WeatherApp\app\src\main\AndroidManifest.xml:34:19-52
+activity#com.aim.view.SearchActivity
+ADDED from D:\WeatherApp\app\src\main\AndroidManifest.xml:35:9-57
+	android:name
+		ADDED from D:\WeatherApp\app\src\main\AndroidManifest.xml:35:19-54
+uses-sdk
+INJECTED from D:\WeatherApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\WeatherApp\app\src\main\AndroidManifest.xml
+INJECTED from D:\WeatherApp\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\62ce6540d9530b51402c4e53dcbdc3e1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\62ce6540d9530b51402c4e53dcbdc3e1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\0c3c715b985adbef3d30d390effafb53\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\0c3c715b985adbef3d30d390effafb53\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\952a7d8ea6824312594cc47de56ccf44\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\952a7d8ea6824312594cc47de56ccf44\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\c3309327eb637a912cdbfc7e8a63ac2d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\c3309327eb637a912cdbfc7e8a63ac2d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\4c7c11a4a310a1263eb49f7e72e45869\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\4c7c11a4a310a1263eb49f7e72e45869\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\0a6a0035eba816703fcf755d0abec662\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\0a6a0035eba816703fcf755d0abec662\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\55b7faa0c94e56e50164520a3fccd99a\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\55b7faa0c94e56e50164520a3fccd99a\AndroidManifest.xml:5:5-44
+MERGED from [cn.zhaiyifan:rememberedittext:0.9.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\8c44064d51bf165159f2dbf2e2e762df\AndroidManifest.xml:7:5-9:41
+MERGED from [cn.zhaiyifan:rememberedittext:0.9.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\8c44064d51bf165159f2dbf2e2e762df\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\9129e2b0abdfa946513f96a790fe3937\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\9129e2b0abdfa946513f96a790fe3937\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.0.2] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\8270b08d2c2a1e8c1bf66c64f613d8d6\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.0.2] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\8270b08d2c2a1e8c1bf66c64f613d8d6\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\de034bc9ff7a4ba6bdbfb90d038bd6a1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\de034bc9ff7a4ba6bdbfb90d038bd6a1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\9de82c28dfcbc55a23aceb0517b1eb53\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\9de82c28dfcbc55a23aceb0517b1eb53\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\910b1eb76dcc978a057a8a9c2deaacc1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\910b1eb76dcc978a057a8a9c2deaacc1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\493d2901df36810da51cd316d04829a2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\493d2901df36810da51cd316d04829a2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\9bdf756005814c6c2ee5cdf96d0e291b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\9bdf756005814c6c2ee5cdf96d0e291b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\84f90f858ea22699a64e928d7ffdadef\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\84f90f858ea22699a64e928d7ffdadef\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\a6561eef6850b3f64e58a9bd5c1fb5c0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\a6561eef6850b3f64e58a9bd5c1fb5c0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\1cd310ac328872139534e02342bdbb70\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\1cd310ac328872139534e02342bdbb70\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\d78ecaedfd5f9aa5c0346289bf9fa8c8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\d78ecaedfd5f9aa5c0346289bf9fa8c8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\158e823237195b82113b2172de643f70\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\158e823237195b82113b2172de643f70\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\99d12ff1704670c2faf89e1c26f33914\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\99d12ff1704670c2faf89e1c26f33914\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\ab7e7ef200a6225ff625f630eae2868d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\ab7e7ef200a6225ff625f630eae2868d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\1c970ebd369cc425f0f593722ce9e4a8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\1c970ebd369cc425f0f593722ce9e4a8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\f32ec28ed37b450cb17accdb3d46a940\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\f32ec28ed37b450cb17accdb3d46a940\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\b39e26b47f079cf6a1053f20fcf36baa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\b39e26b47f079cf6a1053f20fcf36baa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\508c4552d4ba088f48f4d9f0a41e145c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\508c4552d4ba088f48f4d9f0a41e145c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\7540923f3932dc976f20e7957b0210b1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\7540923f3932dc976f20e7957b0210b1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\41063ec6ca1f9bb3038638641793ae63\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\41063ec6ca1f9bb3038638641793ae63\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\aa1d0805005248cdc05fa57a85dc6b85\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\aa1d0805005248cdc05fa57a85dc6b85\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.2] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\324048154116e377cf2497a9ea4eef27\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.2] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\324048154116e377cf2497a9ea4eef27\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\40175be3478c690d85be8f41036a75cd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\40175be3478c690d85be8f41036a75cd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\2156524264406f06a784f74d48ae4b6d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\2156524264406f06a784f74d48ae4b6d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\98932a44ef29af7340d8f72a4e6e8d6a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\98932a44ef29af7340d8f72a4e6e8d6a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\bfd6c1f09164a77a760a2ebb1fd77d3c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\bfd6c1f09164a77a760a2ebb1fd77d3c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\eb9e02dc6b5070974300d136d9ab0f58\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\eb9e02dc6b5070974300d136d9ab0f58\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\d327329582af9bdb9b7eb9985e97f6a6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\d327329582af9bdb9b7eb9985e97f6a6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\bdc0b9544fc06363c36a86f8ebd47329\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\bdc0b9544fc06363c36a86f8ebd47329\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\63b2a0b0a9bd1a659ec84c10b4a7baff\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\63b2a0b0a9bd1a659ec84c10b4a7baff\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\86709a672d5f6159adcc2477ac60ee56\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\86709a672d5f6159adcc2477ac60ee56\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\0ac62abde1ee67ee2c44d3094c4aa159\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\0ac62abde1ee67ee2c44d3094c4aa159\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\be4f071e66df7c7d6e53c5410956def6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\be4f071e66df7c7d6e53c5410956def6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\ebc33bdf4916c1b9add8bdf0f6432fbd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\ebc33bdf4916c1b9add8bdf0f6432fbd\AndroidManifest.xml:20:5-44
+INJECTED from D:\WeatherApp\app\src\main\AndroidManifest.xml
+INJECTED from D:\WeatherApp\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\WeatherApp\app\src\main\AndroidManifest.xml
+		ADDED from D:\WeatherApp\app\src\main\AndroidManifest.xml
+		INJECTED from D:\WeatherApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\WeatherApp\app\src\main\AndroidManifest.xml
+		ADDED from D:\WeatherApp\app\src\main\AndroidManifest.xml
+		INJECTED from D:\WeatherApp\app\src\main\AndroidManifest.xml
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\55b7faa0c94e56e50164520a3fccd99a\AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\55b7faa0c94e56e50164520a3fccd99a\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\55b7faa0c94e56e50164520a3fccd99a\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\55b7faa0c94e56e50164520a3fccd99a\AndroidManifest.xml:9:13-64
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\de034bc9ff7a4ba6bdbfb90d038bd6a1\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\de034bc9ff7a4ba6bdbfb90d038bd6a1\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\de034bc9ff7a4ba6bdbfb90d038bd6a1\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\de034bc9ff7a4ba6bdbfb90d038bd6a1\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\493d2901df36810da51cd316d04829a2\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\493d2901df36810da51cd316d04829a2\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Genn Infotech\.gradle\caches\transforms-2\files-2.1\493d2901df36810da51cd316d04829a2\AndroidManifest.xml:24:13-58
