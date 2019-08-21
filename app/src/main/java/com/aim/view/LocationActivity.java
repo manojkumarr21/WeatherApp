@@ -29,7 +29,7 @@ public class LocationActivity extends AppCompatActivity {
 
 
         // edit text
-        
+
         getLocationBtn = findViewById(R.id.getLocationBtn);
         textView = findViewById(R.id.textView);
 
