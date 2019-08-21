@@ -29,7 +29,6 @@ public class LocationActivity extends AppCompatActivity {
 
 
 
-
         getLocationBtn = findViewById(R.id.getLocationBtn);
         textView = findViewById(R.id.textView);
 
