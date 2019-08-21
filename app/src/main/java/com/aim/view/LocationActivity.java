@@ -28,7 +28,7 @@ public class LocationActivity extends AppCompatActivity {
         setContentView(R.layout.activity_location);
 
 
-//edit Text
+
 
         getLocationBtn = findViewById(R.id.getLocationBtn);
         textView = findViewById(R.id.textView);
